@@ -1,0 +1,6 @@
+kind: ExternalService
+name: chansafi
+spec:
+
+  image: chansafi:v0.1
+  port: 7000

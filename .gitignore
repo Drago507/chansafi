@@ -21,3 +21,5 @@ firebase-adminsdk.json
 
 
 /.idea/**
+/.fandogh/**
+manifest.yml
