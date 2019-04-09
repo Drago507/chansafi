@@ -1,0 +1,12 @@
+extends default
+
+block content
+    div.container
+        each mullah in mullahs
+            div.person
+                div.person-image(style=`background: url('/images/${mullah.imgSrc}') top center
+                no-repeat; background-size: contain;`)
+                h2.person-name
+                    | #{mullah.name}
+                a(href=`/profile?id=${mullah.id}`)
+                    | مقایسه

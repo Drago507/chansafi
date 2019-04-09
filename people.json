@@ -1,0 +1,113 @@
+{
+  "profiles": [
+    {
+      "name": "هایده",
+      "birth" : "1942-04-10",
+      "death" : "1990-01-20",
+      "imgSrc": "people/hayedeh.jpg",
+      "id": "hayedeh"
+    },
+    {
+      "name": "ایرج میرزا",
+      "birth" : "1874-10-01",
+      "death" : "1926-03-14",
+      "id": "irajmirza"
+    },
+    {
+      "name": "داریوش رفیعی",
+      "birth" : "1927-11-26",
+      "death" : "1959-01-22",
+      "id": "dariushrafiei"
+    },
+    {
+      "name": "صادق هدایت",
+      "birth" : "1903-02-17",
+      "death" : "1951-04-09",
+      "id": "sadeghhedayat"
+    },
+    {
+      "name": "محمدرضا پهلوی",
+      "birth" : "1919-10-26",
+      "death" : "1980-07-27",
+      "id": "shah"
+    },
+    {
+      "name": "فروغ فرخزاد",
+      "birth" : "1934-11-29",
+      "death" : "1967-02-12",
+      "id": "foroogh"
+    },
+    {
+      "name": "مهدی اخوان ثالث",
+      "birth" : "1929-03-01",
+      "death" : "1990-08-26",
+      "id": "mimomid"
+    },
+    {
+      "name": "احمد شاملو",
+      "birth" : "1925-11-12",
+      "death" : "2000-07-23",
+      "id": "shamloo"
+    },
+    {
+      "name": "سهراب سپهری",
+      "birth" : "1928-10-07",
+      "death" : "1980-04-21",
+      "id": "sohrabsepehri"
+    },
+    {
+      "name": "مسعود آذرنوش",
+      "birth" : "1945-03-25",
+      "death" : "2008-11-27",
+      "id": "mazarnoush"
+    },
+    {
+      "name": "علیرضا شاپور شهبازی",
+      "birth" : "1942-09-04",
+      "death" : "2006-07-15",
+      "id": "alirezashahbazi"
+    },
+    {
+      "name": "شهریار عدل",
+      "birth" : "1944-04-02",
+      "death" : "2015-06-21",
+      "id": "shahriaradl"
+    },
+    {
+      "name": "صدیقه دولت‌آبادی",
+      "birth" : "1882-01-01",
+      "death" : "1961-07-28",
+      "id": "sdowlatabadi"
+    },
+    {
+      "name": "جعفر شهری",
+      "birth" : "1914-01-01",
+      "death" : "1999-11-27",
+      "id": "jafarshahri"
+    },
+    {
+      "name": "کیومرث صابری",
+      "birth" : "1941-08-29",
+      "death" : "2004-04-30",
+      "id": "golagha"
+    },
+    {
+      "name": "نیکلای مارکوف",
+      "birth" : "1882-01-01",
+      "death" : "1957-01-01",
+      "id": "nikolaymarkof"
+    },
+    {
+      "name": "آندره گدار",
+      "birth" : "1881-01-21",
+      "death" : "1965-07-31",
+      "id": "andregodard"
+    },
+    {
+      "name": "لو کوربوزیه",
+      "birth" : "1887-10-06",
+      "death" : "1965-08-27",
+      "id": "lecorbusier"
+    }
+  ]
+}

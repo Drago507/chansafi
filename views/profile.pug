@@ -1,0 +1,17 @@
+extends default
+
+block header
+
+block content
+    div.profile
+        div.profile-image(style=`background: url('/images/${mullah.imgSrc}') top left
+    no-repeat; background-size: contain;`)
+        div.profile-details
+            h2
+                | #{mullah.name} از سال #{mullahBirthDate} تا حالا با ماست.
+            h3.fullheader
+                | هر کدوم از این افراد اگه اندازۀ الآن ایشون عمر میکردن...
+            each person in somemap
+                h4 #{person}
+
+

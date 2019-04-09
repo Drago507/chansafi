@@ -1,0 +1,58 @@
+{
+  "profiles": [
+    {
+      "name": "صافی گلپایگانی",
+      "birth" : "1919-01-20",
+      "bio":
+        "",
+      "imgSrc": "mullahs/safi_golpaygani.jpg",
+      "id": "safi"
+    },
+
+    {
+      "name": "وحید خراسانی",
+      "birth" : "1921-01-01",
+      "bio":
+        "",
+      "tagline": "",
+      "imgSrc": "mullahs/vahid_khorasani.jpg",
+      "id": "vahidkhorasani"
+    },
+    {
+      "name": "شبیری زنجانی",
+      "birth" : "1928-04-02",
+      "bio":
+        "",
+      "tagline": "",
+      "imgSrc": "mullahs/shobeiri_zanjani.jpg",
+      "id": "shobeirizanjani"
+    },
+    {
+      "name": "علوی گرگانی",
+      "birth" : "1940-03-01",
+      "bio":
+        "",
+      "tagline": "",
+      "imgSrc": "mullahs/alavi_gorgani.jpg",
+      "id": "alavigorgani"
+    },
+    {
+      "name": "مکارم شیرازی",
+      "birth" : "1927-02-25",
+      "bio":
+        "",
+      "tagline": "",
+      "imgSrc": "mullahs/makarem_shirazi.jpg",
+      "id": "haraaaam"
+    },
+    {
+      "name": "جنتی",
+      "birth" : "1927-02-23",
+      "bio":
+        "",
+      "tagline": "",
+      "imgSrc": "mullahs/janati.jpg",
+      "id": "janati"
+    }
+  ]
+}
